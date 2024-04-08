@@ -1,2 +1,0 @@
-# DennisStamperKhan
-project website
